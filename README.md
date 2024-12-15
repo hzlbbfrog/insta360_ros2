@@ -2,8 +2,11 @@
 This repository is a ROS 2 driver for Insta360 cameras.
 
 ## 📢 Features
-I have tested on an **x86_64 (or AMD64) PC** and an **AArch64 (or ARM64)** device (Specifially, **Nvidia Jetson AGX Orin** 32GB).  
-🤔 I know you guys may have problems running Insta360 cameras on AArch64 devices (me too!😩).  
+### 1. CPU and cameras
+Tested CPU architectures: **x86_64 (or AMD64)** and **AArch64 (or ARM64)** (my device is **Nvidia Jetson AGX Orin 32GB**).  
+Tested camera: **Insta360 X4**.  
+### 2. FYI
+I know 🤔 you guys may have problems running Insta360 cameras on AArch64 devices (me too, at first!😩).  
 No worries, I can help you! 🤝
 
 ## ✒️ Prerequisites
